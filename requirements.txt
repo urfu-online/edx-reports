@@ -1,4 +1,4 @@
 streamlit==1.25.0
 requests==2.31.0
 pandas==2.0.3
-nicegui==3.1.0
+nicegui==3.4.0
